@@ -13,7 +13,7 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/e43252720-blip/diary-frontend.git
+git clone https://github.com/calvin-aprilian/diary-frontend.git
 cd diary-frontend
 npm install
 ```
@@ -21,13 +21,8 @@ npm install
 ## ⚡ Quick Start
 
 ```bash
-# Development mode
 npm run dev
-
-# Build for production
 npm run build
-
-# Start production server
 npm start
 ```
 
@@ -36,7 +31,6 @@ npm start
 - **Framework:** Next.js
 - **Language:** TypeScript
 - **Styling:** TailwindCSS
-- **Icons:** Lucide React
 
 ## 📄 License
 
