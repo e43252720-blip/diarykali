@@ -1,41 +1,29 @@
-# 📔 Diary Frontend
+# Diary Frontend
 
-> Next.js diary app dengan TypeScript & TailwindCSS untuk manajemen jurnal personal
+Next.js diary / journal application with TypeScript & TailwindCSS — clean, responsive, component-based.
 
-## 🔥 Features
+## 🔧 Features
 
-- ✅ Next.js 14+ dengan App Router
-- ✅ TypeScript untuk type safety
-- ✅ TailwindCSS untuk styling modern
-- ✅ Responsive design
-- ✅ Component-based architecture
+- Next.js 14+ App Router
+- TypeScript type safety
+- TailwindCSS styling
+- Responsive design
 
-## 📦 Installation
+## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/calvin-aprilian/diary-frontend.git
-cd diary-frontend
 npm install
-```
-
-## ⚡ Quick Start
-
-```bash
 npm run dev
-npm run build
-npm start
 ```
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
-- **Framework:** Next.js
-- **Language:** TypeScript
-- **Styling:** TailwindCSS
+Next.js, TypeScript, TailwindCSS
 
 ## 📄 License
 
-MIT License
+MIT
 
 ---
 
-<p align="center"><strong>Built with ❤️ using Next.js & TypeScript</strong></p>
+*See [my profile](https://github.com/calvin-aprilian) for more.*
